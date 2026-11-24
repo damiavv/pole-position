@@ -1,0 +1,11 @@
+Target,Model,Race-level (top-k),ROC-AUC,F1-score,Log loss,Brier score
+Podium,Logistic Regression,0.673,0.931,0.63,0.351,0.113
+Podium,Grid-position baseline,0.646,,,,
+Podium,Random Forest,0.638,0.932,0.647,0.301,0.096
+Podium,Decision Tree,0.632,0.902,0.601,0.447,0.118
+Podium,Gradient Boosting,0.614,0.924,0.635,0.304,0.095
+Winner,Gradient Boosting,0.564,0.945,0.49,0.179,0.056
+Winner,Random Forest,0.533,0.954,0.483,0.198,0.062
+Winner,Grid-position baseline,0.516,,,,
+Winner,Logistic Regression,0.506,0.949,0.352,0.327,0.111
+Winner,Decision Tree,0.428,0.899,0.351,0.41,0.111

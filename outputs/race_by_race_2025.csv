@@ -1,0 +1,25 @@
+round,event,predicted_winner,win_chance,pick_finished,actual_winner,correct
+1,Australian Grand Prix,Lando Norris,0.408985943348333,1.0,Lando Norris,True
+2,Chinese Grand Prix,Oscar Piastri,0.3167776361730653,1.0,Oscar Piastri,True
+3,Japanese Grand Prix,Lando Norris,0.3377920058208293,2.0,Max Verstappen,False
+4,Bahrain Grand Prix,Oscar Piastri,0.35745162708768496,1.0,Oscar Piastri,True
+5,Saudi Arabian Grand Prix,Oscar Piastri,0.35674972759282303,1.0,Oscar Piastri,True
+6,Miami Grand Prix,Lando Norris,0.33739953342252543,2.0,Oscar Piastri,False
+7,Emilia Romagna Grand Prix,Oscar Piastri,0.3201466578631657,3.0,Max Verstappen,False
+8,Monaco Grand Prix,Oscar Piastri,0.40011401601833957,3.0,Lando Norris,False
+9,Spanish Grand Prix,Max Verstappen,0.36953976320572995,10.0,Oscar Piastri,False
+10,Canadian Grand Prix,George Russell,0.4197274830425974,1.0,George Russell,True
+11,Austrian Grand Prix,Oscar Piastri,0.344968680738861,2.0,Lando Norris,False
+12,British Grand Prix,Max Verstappen,0.46610969876561686,5.0,Lando Norris,False
+13,Belgian Grand Prix,Lando Norris,0.4217943091873747,2.0,Oscar Piastri,False
+14,Hungarian Grand Prix,Oscar Piastri,0.3210054232706712,2.0,Lando Norris,False
+15,Dutch Grand Prix,Oscar Piastri,0.4239601724125621,1.0,Oscar Piastri,True
+16,Italian Grand Prix,Max Verstappen,0.4606352691520978,1.0,Max Verstappen,True
+17,Azerbaijan Grand Prix,Max Verstappen,0.4848650884555434,1.0,Max Verstappen,True
+18,Singapore Grand Prix,Max Verstappen,0.5311121042171902,2.0,George Russell,False
+19,United States Grand Prix,Max Verstappen,0.3521229584349396,1.0,Max Verstappen,True
+20,Mexico City Grand Prix,Lando Norris,0.27763691059302853,1.0,Lando Norris,True
+21,São Paulo Grand Prix,Lando Norris,0.3961639975057649,1.0,Lando Norris,True
+22,Las Vegas Grand Prix,Lando Norris,0.47201302601752526,19.0,Max Verstappen,False
+23,Qatar Grand Prix,Max Verstappen,0.34272438167083,1.0,Max Verstappen,True
+24,Abu Dhabi Grand Prix,Max Verstappen,0.387739555737494,1.0,Max Verstappen,True
